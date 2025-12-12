@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Hospital System",
+      "request": "launch",
+      "mainClass": "com.hospital.Main",
+      "projectName": "HospitalApp",
+      "console": "integratedTerminal"
+    }
+  ]
+}
+
