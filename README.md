@@ -2,6 +2,6 @@
 a
 y
 aa
-n
+na
 aaa
 a
