@@ -2,5 +2,5 @@
 a
 g
 j
-bn
+bnn
 j
