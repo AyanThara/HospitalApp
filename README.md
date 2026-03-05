@@ -1,7 +1,7 @@
 
 c
 jd
-cd
+c
 x
 d
 kk
