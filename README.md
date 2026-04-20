@@ -1,5 +1,5 @@
 
 x
 dx
-n
+njj
  
