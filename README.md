@@ -1,3 +1,3 @@
-Hospital booking system made using java and maven
+Hospital booking system made using java and maven.
 
 
