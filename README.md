@@ -1,3 +1,3 @@
 Hospital booking system made using java and maven.
 -Buiding Automation using maven 
--jave for coding and buildi
+-jave for coding and bui
