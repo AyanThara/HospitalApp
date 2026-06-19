@@ -1,3 +1,4 @@
-Hospital booking system made using java and maven
+Hospital booking system 
 frontend html and css 
 backend using java 
+Automatio using Maven 
